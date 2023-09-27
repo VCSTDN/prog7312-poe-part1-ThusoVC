@@ -1,0 +1,35 @@
+Dewey Decimal system Part 1 Demo: https://advtechonline-my.sharepoint.com/:v:/g/personal/st10120640_vcconnect_edu_za/EWOq_G6qe4tNiRPHTjb0ObYBjGoDeZeMAMvM-xsJpAax1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=koIbFT
+
+For this application you will be required to have Visual sudio 2017 or better installed
+
+Part 1 
+
+Unzip the Dewey Decimal Classification system.zip file from the \Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1 floder
+
+Part 2 
+
+Navigate into the folder and find the Dewey Decimal Classification system.sln file, run the file.
+
+or 
+
+Open your visual studio 2017 or better application and navigate to files -> open -> projects/solution and find the Dewey Decimal Classification system.sln
+
+Part 3
+
+After sucessfuly opening the Dewey Decimal Classification system.sln project run the application using the start button on your toolbar.
+
+Part 4 
+
+After sucessfuly running the Dewey Decimal Classification system you will be presented with the tasks page, you can then proceed to pressing the Replacing books button.
+
+Part 5 
+
+The system will then generate the 10 call numbers in a listview. Analyze the numbers and only press the number you decide would be the lowest value to start sorting the numbers
+
+Part 6
+
+Once all the numbers are sorted within the second listview, you can then press the submit button to check if you sucessfully sorted the numbers, a third list view will appear with the correct sequence of sorted numbers.
+
+Part 7
+
+Press the Try again button if you would like to restart the process. 
